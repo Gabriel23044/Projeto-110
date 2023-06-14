@@ -1,0 +1,4 @@
+0 Pedra
+1 Papel
+2 tesoura
+3 normal
